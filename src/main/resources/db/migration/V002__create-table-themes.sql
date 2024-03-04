@@ -1,0 +1,8 @@
+CREATE TABLE themes (
+
+       id INTEGER(11) NOT NULL AUTO_INCREMENT,
+       description VARCHAR(100) NOT NULL,
+
+       PRIMARY KEY (id)
+
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
