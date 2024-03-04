@@ -10,7 +10,7 @@ on:
 
 env:
   JAVA_VERSION: 17
-  AZURE_WEBAPP_NAME: gzarzurblog
+  AZURE_WEBAPP_NAME: generation-blog
 
 jobs:
   build:
